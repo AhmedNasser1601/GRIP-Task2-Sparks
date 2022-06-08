@@ -1,2 +1,8 @@
 # GRIP-Task2-Sparks
-Task2: Prediction Using UnSupervised ML
+
+Name: Ahmed Nasser Ahmed Hassan
+
+GRIP : The Sparks Foundation
+
+Data Science and Business Analytics Intern
+
